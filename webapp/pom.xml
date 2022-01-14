@@ -234,7 +234,7 @@
 		<dependency>
 			<groupId>org.quartz-scheduler</groupId>
 			<artifactId>quartz</artifactId>
-			<version>1.8.3</version>
+			<version>2.3.2</version>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.velocity</groupId>
@@ -291,7 +291,7 @@
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-validator</artifactId>
-			<version>4.0.2.GA</version>
+			<version>6.0.19.Final</version>
 			<exclusions>
 				<exclusion>
 					<groupId>com.sun.xml.bind</groupId>
@@ -336,7 +336,7 @@
 		<dependency>
 			<groupId>com.h2database</groupId>
 			<artifactId>h2</artifactId>
-			<version>1.4.196</version>
+			<version>2.0.206</version>
 		</dependency>
 		
 		<dependency>
